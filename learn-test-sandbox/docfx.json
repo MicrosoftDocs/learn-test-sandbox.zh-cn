@@ -3,6 +3,40 @@
     "content": [
       {
         "files": [
+          "achievements.yml"
+        ],
+        "dest": "achievements/bizapps/"
+      },
+      {
+        "src": "dyn365-customer-service",
+        "files": [
+          "**.yml"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "flow",
+        "files": [
+          "**.yml"
+        ],
+        "dest": "flows"
+      },
+      {
+        "src": "power-bi",
+        "files": [
+          "**.yml"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "powerapps",
+        "files": [
+          "**.yml"
+        ],
+        "dest": "modules"
+      },
+      {
+        "files": [
           "**/*.md",
           "**/*.yml"
         ],
@@ -14,30 +48,41 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices"
+          "ThirdPartyNotices",
+          "paths/sample-path/**",
+          "dyn365-customer-service/**",
+          "flow/**",
+          "power-bi/**",
+          "powerapps/**"
         ]
       }
     ],
     "resource": [
       {
         "files": [
+          "**/*.gif",
           "**/*.png",
-          "**/*.jpg"
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
         ],
         "exclude": [
           "**/obj/**",
           "**/includes/**",
           "_themes/**",
-          "_themes.pdf/**"
+          "_themes.pdf/**",
+          "paths/sample-path/**"
         ]
       }
     ],
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/learn-sandbox/breadcrumb/toc.json",
+      "breadcrumb_path": "/learn/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "clicktale": true,
+      "uhfHeaderId":"MSDocsHeader-Learn"
     },
     "fileMetadata": {},
     "template": [],

@@ -9,7 +9,18 @@
       "moniker_ranges": [],
       "open_to_public_contributors": false,
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "type_mapping": {
+        "Achievements": "Toc",
+        "LearningPath": "Content",
+        "Module": "Content",
+        "ModuleUnit": "Content"
+      },
+      "customized_tasks": {
+        "docset_postbuild": [
+            "_dependentPackages/CommonPlugins/tools/TripleCrownValidation.ps1"
+        ]
+    }
     }
   ],
   "notification_subscribers": [],
@@ -37,6 +48,15 @@
         "live": "live",
         "master": "master"
       }
+    }
+  ],
+  "dependent_packages": [
+    {
+        "id": "Microsoft.OpenPublishing.CommonPlugins",
+        "nuget_feed": "https://www.myget.org/F/op/api/v2",
+        "path_to_root": "_dependentPackages/CommonPlugins",
+        "target_framework": "net45",
+        "version": "latest"
     }
   ],
   "branch_target_mapping": {},

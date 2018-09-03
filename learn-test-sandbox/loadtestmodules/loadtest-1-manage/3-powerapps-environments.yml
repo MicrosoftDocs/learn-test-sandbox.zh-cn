@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit
+uid: learn-test-sandbox.loadtest-1-manage.3-powerapps-environments
+title: Understand environments in PowerApps
+metadata:
+  title: Understand environments in PowerApps
+  description: Learn how to work with environments in PowerApps.
+durationInMinutes: 12
+content: |
+  [!include[](includes/3-powerapps-environments.md)]

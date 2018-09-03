@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit
+uid: learn-test-sandbox.loadtest-1-get-started.5-powerapps-create-first
+title: Create your first PowerApps app
+metadata:
+  title: Create your first app in PowerApps
+  description: Learn to build your first app in PowerApps.
+durationInMinutes: 15
+content: |
+  [!include[](includes/5-powerapps-create-first.md)]

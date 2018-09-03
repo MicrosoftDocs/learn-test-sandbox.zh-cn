@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit 
+uid: learn-test-sandbox.loadtest-1-customize.1-powerapps-customize
+title: 在PowerApps中采用基本的用户定制来改进我们的 app（标题）
+metadata: 
+  title: 在PowerApps中采用基本的用户定制来改进我们的 app（metadata标题）
+  description: 你可以在你的apps里采用一些基本的用户定制，比如采用某种外观或者对某些区域进行重新排序. 
+durationInMinutes: 10 
+content: | 
+  [!include[](includes/1-powerapps-customize.md)]  

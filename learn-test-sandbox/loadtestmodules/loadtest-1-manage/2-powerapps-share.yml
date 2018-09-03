@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit
+uid: learn-test-sandbox.loadtest-1-manage.2-powerapps-share
+title: Share apps in PowerApps
+metadata:
+  title: Share apps in PowerApps
+  description: Learn how to share apps hat you built in PowerApps with others in your organization.
+durationInMinutes: 10
+content: |
+  [!include[](includes/2-powerapps-share.md)]

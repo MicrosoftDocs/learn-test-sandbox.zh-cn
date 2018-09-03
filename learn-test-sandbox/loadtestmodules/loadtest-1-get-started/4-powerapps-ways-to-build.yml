@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit
+uid: learn-test-sandbox.loadtest-1-get-started.4-powerapps-ways-to-build
+title: Ways to build PowerApps
+metadata:
+  title: Ways to build PowerApps
+  description: Learn the different ways you can build apps in PowerApps.
+durationInMinutes: 10
+content: |
+  [!include[](includes/4-powerapps-ways-to-build.md)]

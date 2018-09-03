@@ -1,0 +1,20 @@
+### YamlMime:ModuleUnit
+uid: learn-test-sandbox.loadtest-1-get-started.7-powerapps-taskvalidation-get-started
+title: "Create a VM and validate"
+metadata:
+  title: Create a VM and validate
+  description: Create a VM and validate
+durationInMinutes: 10
+content: Create a VM on Azure and validate
+tasks:
+- action: exists
+  environment: azure
+  hint: "Make sure the VM name matches 'ConferenceDemo1' and that the VM is in a Resource Grouped named 'TrialsResourceGroup'"
+  azure:
+    resource:
+      type: Microsoft.Compute/virtualMachines
+      name: loadtestwebapp
+      tags:
+        triplecrown: "true"
+        unitTitle: "Exercise: Create a resource using PowerShell interactively"
+  

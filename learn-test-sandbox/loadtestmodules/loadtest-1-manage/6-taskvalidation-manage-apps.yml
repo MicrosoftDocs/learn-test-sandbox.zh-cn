@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit
+uid: learn-test-sandbox.loadtest-1-manage.6-taskvalidation-manage-apps
+title: "Create a storage account and validate"
+metadata:
+  title: Create a storage account and validate
+  description: Create a storage account and validate
+durationInMinutes: 10
+content: Create a storage account on Azure and validate
+tasks:
+- action: exists
+  environment: azure
+  hint: "Make sure the storage account name matches 'trialsresourcegroup290' and that the storage account is in a Resource Grouped named 'TrialsResourceGroup'"
+  azure:
+    resource:
+      type: Microsoft.Storage/storageAccounts
+      name: trialsresourcegroup290
+  

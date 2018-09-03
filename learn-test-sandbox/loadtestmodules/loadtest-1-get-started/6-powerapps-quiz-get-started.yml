@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit
+# YML code for unit
+uid: learn-test-sandbox.loadtest-1-get-started.6-powerapps-quiz-get-started
+# `uid`s are manually created by the writer and should follow the format <repo>.<module-short-name>.<unit-short-name>. Keep it easy on yourself and keep the module-short-name the same as the unit YAML file name.
+metadata:
+# Search engine metadata
+  title: Get started in PowerApps quiz
+  description: This quiz tests your knowledge of how to get started in PowerApps.
+  # Text-only units use the one-column option, which drives a single-column layout, similar to a normal article, with no interactive component.
+title: "Knowledge check: Get started in PowerApps"
+# `title` appears in the header, ToC, and breadcrumbs
+durationInMinutes: 10
+# `durationInMinutes` is manually created by the writer
+content: This is a quiz for getting started in PowerApps.
+quiz:
+  title: Get started in PowerApps quiz
+  questions:
+  - content: Where do you share an app with others?
+    choices: 
+    - content: In web.powerapps.com.
+      correctExplanation: In web.powerapps.com, you can share an app with others, allowing them to just run it or to both run and edit it.
+      isCorrect: true
+    - content: In the PowerApps admin center.
+      incorrectExplanation: You can manage environments and create databases in the PowerApps admin center, but you can't share apps from that location.
+      isCorrect: false
+    - content: In Microsoft Dynamics 365.
+      incorrectExplanation: You can run apps in Dynamics 365, but you can't share them from that location.
+      isCorrect: false
+    - content: In PowerApps Studio.
+      incorrectExplanation: You can design apps in PowerApps Studio, but you can't share them from that location.
+      isCorrect: false
+  - content: Which of these statements about data sources is true?
+    choices:
+    - content: In PowerApps, app data comes primarily from your local device.
+      incorrectExplanation: Data can come from many sources, including Microsoft SharePoint, Google Drive, and Salesforce.
+      isCorrect: false
+    - content: Twitter can be a data source.
+      correctExplanation: You can use many data sources, including Twitter, Facebook, Microsoft SQL Server, and Salesforce.
+      isCorrect: true
+    - content: Dropbox can't be a data source.
+      incorrectExplanation: Dropbox is one of many data sources that you can use when you build an app in PowerApps.
+      isCorrect: false
+  - content: Which of these statements *doesn't* describe a way to build apps?
+    choices:
+    - content: You can build an app from a template or a sample.
+      incorrectExplanation: PowerApps ships with many templates and samples from which you can build apps.
+      isCorrect: false
+    - content: You can build an app from a blank screen.
+      incorrectExplanation: You can build an app from the ground up by adding UI elements that determine how the app looks and creating formulas that determine how the app behaves.
+      isCorrect: false
+    - content: You can build an app in PowerApps Mobile.
+      correctExplanation: You can run but not build apps in PowerApps Mobile.
+      isCorrect: true

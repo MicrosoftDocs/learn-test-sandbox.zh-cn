@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit
+uid: learn-test-sandbox.loadtest-1-get-started.3-powerapps-related-technologies
+title: PowerApps related technologies
+metadata:
+  title: PowerApps related technologies
+  description: Learn how you can use PowerApps with other technologies to build and share apps across your organization. 
+durationInMinutes: 10
+content: |
+  [!include[](includes/3-powerapps-related-technologies.md)]

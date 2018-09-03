@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit 
+uid: learn-test-sandbox.loadtest-1-customize.3-powerapps-functions
+title: PowerApps中的functions之初体验（标题）
+metadata: 
+  title: PowerApps中的functions之初体验（meta标题）
+  description: PowerApps生成的默认functions.
+durationInMinutes: 15 
+content: | 
+  [!include[](includes/3-powerapps-functions.md)]  

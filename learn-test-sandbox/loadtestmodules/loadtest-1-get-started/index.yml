@@ -1,0 +1,31 @@
+### YamlMime:Module
+uid: learn-test-sandbox.loadtest-1-get-started
+metadata:
+  title: Get started with PowerApps
+  description: Learn the basics of PowerApps and how you can use it in your organization.
+title: Get started with PowerApps
+summary: Learn the basics of PowerApps and how you can use it in your organization.
+abstract: |
+  In this module, you will:
+  - Explore how PowerApps can make your business more efficent.
+  - Understand how you use different technologies to perform different tasks in PowerApps.
+  - Understand the different ways to build an app in PowerApps.
+  - Create your first app from data in an Excel workbook.
+cardDescription: Learn the basics of PowerApps and how you can use it in your organization.
+iconUrl: http://via.placeholder.com/120x120
+levels: 
+- beginner
+roles: 
+- business-user
+products: 
+- powerApps
+- d365
+units:
+- learn-test-sandbox.loadtest-1-get-started.1-powerapps-introduction
+- learn-test-sandbox.loadtest-1-get-started.2-powerapps-building-blocks
+- learn-test-sandbox.loadtest-1-get-started.3-powerapps-related-technologies
+- learn-test-sandbox.loadtest-1-get-started.4-powerapps-ways-to-build
+- learn-test-sandbox.loadtest-1-get-started.5-powerapps-create-first
+- learn-test-sandbox.loadtest-1-get-started.6-powerapps-quiz-get-started
+- learn-test-sandbox.loadtest-1-get-started.7-powerapps-taskvalidation-get-started
+achievement: learn-test-sandbox.loadtest-1-get-started.badge

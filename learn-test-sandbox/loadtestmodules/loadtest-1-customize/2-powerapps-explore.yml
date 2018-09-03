@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit
+uid: learn-test-sandbox.loadtest-1-customize.2-powerapps-explore
+title: 在PowerApps中探索屏幕和控件（标题）
+metadata:
+  title: 在PowerApps中探索屏幕和控件（metadata标题）
+  description: 学习PowerApps在apps中生成的默认screens和控件.
+durationInMinutes: 5
+content: | 
+  [!include[](includes/2-powerapps-explore.md)]  

@@ -1,9 +1,0 @@
-### YamlMime:ModuleUnit
-uid: learn-test-sandbox.loadtest-1-manage.1-powerapps-versions-2
-title: Manage app versions in PowerApps 2
-metadata:
-  title: Manage app versions in PowerApps 2
-  description: Learn how to review and restore previous versions of your apps in PowerApps.
-durationInMinutes: 5
-content: |
-  [!include[](includes/1-powerapps-versions.md)]

@@ -11,6 +11,7 @@ roles:
 products: 
 - PowerApps
 - d365
+- testOne
 metadata: 
   title: Manage apps in PowerApps
   description: Manage app versions, app sharing, and environments in PowerApps.
@@ -29,4 +30,5 @@ units:
 - learn-test-sandbox.loadtest-1-manage.4-review-powerapps
 - learn-test-sandbox.loadtest-1-manage.5-quiz-manage-apps
 - learn-test-sandbox.loadtest-1-manage.6-taskvalidation-manage-apps
+- learn-test-sandbox.loadtest-1-manage.7-powerapps-versions
 achievement: learn-test-sandbox.loadtest-1-manage.badge

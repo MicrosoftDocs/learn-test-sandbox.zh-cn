@@ -1,0 +1,20 @@
+### YamlMime:LearningPath
+uid: learn-test-sandbox.fallback
+title: fallbacktesting-Create an app in PowerApps
+summary: fallbacktesting - This learning path introduces you to PowerApps, helps you create and customize an app, and then manage and distribute it. 
+cardDescription: Create, customize and share an app 
+iconUrl: http://via.placeholder.com/120x120
+levels:
+- beginner
+roles:
+- business-user
+products:
+- bizapps-power-apps
+prerequisites: This learning path assumes that you're familiar with OneDrive, SharePoint, and Excel. 
+metadata:
+  title: Create an app in PowerApps
+  description: This learning path introduces you to PowerApps, helps you create and customize an app, and then manage and distribute it.
+modules:
+- learn-test-sandbox.fallback-module
+- learn-test-sandbox.fallback-badge
+achievement: learn-test-sandbox.fallback.trophy

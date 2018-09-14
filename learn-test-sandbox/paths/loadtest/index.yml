@@ -9,7 +9,7 @@ levels:
 roles:
 - business-user
 products:
-- PowerApps
+- bizapps-power-apps
 prerequisites: This learning path assumes that you're familiar with OneDrive, SharePoint, and Excel. 
 metadata:
   title: Create an app in PowerApps

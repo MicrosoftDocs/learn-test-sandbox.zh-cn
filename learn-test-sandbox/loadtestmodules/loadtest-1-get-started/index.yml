@@ -18,8 +18,8 @@ levels:
 roles: 
 - business-user
 products: 
-- powerApps
-- d365
+- bizapps-power-apps
+- bizapps-d365
 units:
 - learn-test-sandbox.loadtest-1-get-started.1-powerapps-introduction
 - learn-test-sandbox.loadtest-1-get-started.2-powerapps-building-blocks

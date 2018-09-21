@@ -1,0 +1,30 @@
+### YamlMime:Module 
+uid: learn-test-sandbox.fallback-module-onlyinloc
+metadata: 
+  title: Customize an app
+  description: Learn how to customize an app by adding controls, images, and logic.
+  ms.date: 09/24/2018
+title: 我是只活在中文里的莫丢哟-Customize an app 
+summary: Learn how to customize an app by adding controls, images, and logic.
+abstract: |
+  In this module, you will:
+  - Change the layout of a gallery.
+  - Change the data that a control shows.
+  - Change the order in which fields appear.
+  - Change the control with which a user provides information.
+  - Explore controls on each screen of an app.
+  - Format a number as a price.
+  - Color prices based on their values.
+  - Explore formulas in a generated app.
+cardDescription: Learn how to customize an app by adding controls, images, and logic.
+iconUrl: http://via.placeholder.com/120x120 
+levels:  
+- beginner 
+roles:  
+- business-user 
+products:  
+- bizapps-power-apps
+- bizapps-d365 
+units: 
+- learn-test-sandbox.fallback.handback-already-onlyinloc
+achievement: learn-test-sandbox.fallback.badge  

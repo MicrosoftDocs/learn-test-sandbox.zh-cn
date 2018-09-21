@@ -1,6 +1,6 @@
 ### YamlMime:LearningPath
-uid: learn-test-sandbox.loadtest-1
-title: Create an app in PowerApps
+uid: learn-test-sandbox.fallback-onlyinloc
+title: 我是只活在中文里的LP - Create an app in PowerApps
 summary: This learning path introduces you to PowerApps, helps you create and customize an app, and then manage and distribute it. 
 cardDescription: Create, customize and share an app 
 iconUrl: http://via.placeholder.com/120x120
@@ -15,7 +15,5 @@ metadata:
   title: Create an app in PowerApps
   description: This learning path introduces you to PowerApps, helps you create and customize an app, and then manage and distribute it.
 modules:
-- learn-test-sandbox.loadtest-1-get-started
-- learn-test-sandbox.loadtest-1-customize
-- learn-test-sandbox.loadtest-1-manage
+- learn-test-sandbox.fallback-module-onlyinloc
 achievement: learn-test-sandbox.loadtest-1.trophy

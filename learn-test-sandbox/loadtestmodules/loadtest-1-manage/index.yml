@@ -9,8 +9,8 @@ levels:
 roles: 
 - business-user
 products: 
-- PowerApps
-- d365
+- bizapps-power-apps
+- bizapps-d365
 metadata: 
   title: Manage apps in PowerApps
   description: Manage app versions, app sharing, and environments in PowerApps.

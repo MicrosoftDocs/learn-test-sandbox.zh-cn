@@ -3,7 +3,7 @@ achievements:
 - uid: learn-test-sandbox.loadtest-1.trophy
   type: trophy
   title: Create an app in PowerApps 奖杯
-  summary: 完成'Create an app in PowerApps' 学习计划的奖杯.
+  summary: 完成'Create an app in PowerApps' 学习计划的奖杯1.
   iconUrl: http://via.placeholder.com/120x120
 - uid: learn-test-sandbox.loadtest-1-customize.badge
   type: badge

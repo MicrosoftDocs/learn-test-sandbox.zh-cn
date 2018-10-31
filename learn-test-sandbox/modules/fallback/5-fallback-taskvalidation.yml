@@ -1,6 +1,6 @@
 ### YamlMime:ModuleUnit
 uid: learn-test-sandbox.fallback.taskvalidation-unit
-title: "我是中文-Customize an app and validate"
+title: "Customize an app and validate"
 metadata:
   title: Customize an app and validate
   description: Create a test app and validate creation

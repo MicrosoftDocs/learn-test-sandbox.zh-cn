@@ -1,0 +1,37 @@
+### YamlMime:ModuleUnit
+uid: learn-test-sandbox.loadtest-1-get-started.9-powerapps-taskvalidation-3-get-started
+title: "Create an app, remove bot service and database on azure"
+metadata:
+  title: Create an app, remove bot service and database on azure
+  description: Create an app, remove bot service and database on azure
+durationInMinutes: 10
+content: Create an account, remove bot service and database on azure - Three pass tasks
+tasks:
+  - action: exists
+    environment: azure
+    hint: "Make sure the storage account name matches 'tcrownstorageaccount18' and that the storage account is in your Resource Group."
+    azure:
+      resource:
+        type: Microsoft.Storage/storageAccounts
+        name: tcrownstorageaccount18
+  - action: not-exists
+    environment: azure
+    hint: "Please make sure the bot service name matches 'smoketestBot' removed."
+    azure:
+      resource:
+        type: Microsoft.BotService/botServices
+        name: smoketestBot
+        kind: sdk
+        location: global
+  - action: not-exists
+    environment: azure
+    hint: "Please make sure the database name matches 'tcsqlserver18/master' removed."
+    azure:
+      resource:
+        type: Microsoft.Sql/servers/databases
+        name: tcsqlserver18/master
+        location: westus
+        sku:
+          name: Basic
+          tier: Basic
+          capacity: 5

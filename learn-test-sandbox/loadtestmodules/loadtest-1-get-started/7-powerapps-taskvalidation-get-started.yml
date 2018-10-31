@@ -13,7 +13,7 @@ tasks:
   azure:
     resource:
       type: Microsoft.Compute/virtualMachines
-      name: loadtestwebapp
+      name: ConferenceDemo1
       tags:
         triplecrown: "true"
         unitTitle: "Exercise: Create a resource using PowerShell interactively"

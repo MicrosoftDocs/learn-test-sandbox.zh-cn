@@ -2,21 +2,41 @@
 achievements:
 - uid: learn-test-sandbox.loadtest-1.trophy
   type: trophy
-  title: Create an app in PowerApps 奖杯
-  summary: 完成'Create an app in PowerApps' 学习计划的奖杯.
+  title: Create an app in PowerApps Trophy
+  summary: Trophy for the 'Create an app in PowerApps' learning path.
   iconUrl: http://via.placeholder.com/120x120
 - uid: learn-test-sandbox.loadtest-1-customize.badge
   type: badge
-  title: Customize and manage PowerApps 奖牌
-  summary: 完成'Customize and manage PowerApps' 课程的合格奖牌.
+  title: Customize and manage PowerApps Badge
+  summary: Badge for the 'Customize and manage PowerApps' module.
   iconUrl: http://via.placeholder.com/120x120
 - uid: learn-test-sandbox.loadtest-1-get-started.badge
   type: badge
-  title: Get started with PowerApps 奖牌
-  summary: 完成 'Get started with PowerApps' 课程的奖牌.
+  title: Get started with PowerApps Badge
+  summary: Badge for the 'Get started with PowerApps' module.
   iconUrl: http://via.placeholder.com/120x120
 - uid: learn-test-sandbox.loadtest-1-manage.badge
   type: badge
-  title: Manage your PowerApps 奖牌
-  summary: 完成 'Manage your PowerApps' 课程的奖牌.
+  title: Manage your PowerApps Badge
+  summary: Badge for the 'Manage your PowerApps' module.
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn-test-sandbox.fallback.badge
+  type: badge
+  title: fallback - Manage your PowerApps Badge
+  summary: Badge for the 'Manage your PowerApps' module.
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn-test-sandbox.fallback.badge-2
+  type: badge
+  title: fallback badge 2- Manage your PowerApps Badge
+  summary: Badge for the 'Manage your PowerApps' module.
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn-test-sandbox.fallback.trophy
+  type: trophy
+  title: fallback Trophy- Manage your fallback trophy
+  summary: Trophy for the 'Manage your PowerApps' module.
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn-test-sandbox.orphan-module.badge
+  type: badge
+  title: Test Orphan Module Badge
+  summary: Trophy for the 'Manage your PowerApps' module.
   iconUrl: http://via.placeholder.com/120x120

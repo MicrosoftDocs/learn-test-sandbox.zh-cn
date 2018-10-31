@@ -1,0 +1,30 @@
+### YamlMime:ModuleUnit
+uid: learn-test-sandbox.loadtest-1-manage.7-taskvalidation-2-manage-apps
+title: "Create test apps(VM and web app) on azure"
+metadata:
+  title: Create test apps(VM and web app) on azure
+  description: Create test apps(VM and web app) on azure
+durationInMinutes: 11
+content: Create test apps(VM and web app) on azure - Two partial pass tasks
+tasks:
+- action: exists
+  environment: azure
+  hint: "Make sure the virtual machine name matches 'ConferenceDemo1' and that the VM is in your Resource Grouped."
+  azure:
+    resource:
+      type: Microsoft.Compute/virtualMachines
+      name: ConferenceDemo1
+      location: westus2
+      properties:
+        vmId: b06ca026-300a-4b2c-92d5-91b8bfd6cb06
+        licenseType: Windows_Client
+        provisioningState: Succeeded
+- action: not-exists
+  environment: azure
+  hint: "Please make sure the web app site name matches 'loadtestwebapp' removed."
+  azure:
+    resource:
+      type: Microsoft.Web/sites
+      name: loadtestwebapp
+      location: West US
+      kind: app

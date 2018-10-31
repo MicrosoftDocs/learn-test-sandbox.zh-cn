@@ -1,0 +1,29 @@
+### YamlMime:ModuleUnit
+uid: learn-test-sandbox.loadtest-1-customize.7-taskvalidation-2-powerapps
+title: "Customize storage account, remove server farm on azure and validate"
+metadata:
+  title: Customize storage account, remove server farm on azure and validate
+  description: Customize storage account, remove server farm on azure and validate
+durationInMinutes: 10
+content: Customize storage account, remove server farm on azure and validate - Two fail tasks
+tasks:
+- action: not-exists
+  environment: azure
+  hint: "Please make sure the Sql server name matches 'Microsoft.Sql/servers' removed."
+  azure:
+    resource:
+      type: Microsoft.Sql/servers
+      name: tcsqlserver18
+      location: westus2
+      kind: v12.0
+- action: exists
+  environment: azure
+  hint: "Make sure the storage account name matches 'tcrownstorageaccount18' and that the storage account is in your Resource Group."
+  azure:
+    resource:
+      type: Microsoft.Storage/storageAccounts
+      name: tcrownstorageaccount18
+      kind: Storage
+      sku:
+        name: Standard
+        tier: Standard

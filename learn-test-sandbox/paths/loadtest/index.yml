@@ -10,6 +10,7 @@ roles:
 - business-user
 products:
 - bizapps-power-apps
+- bizapps-power-bi
 prerequisites: This learning path assumes that you're familiar with OneDrive, SharePoint, and Excel. 
 metadata:
   title: Create an app in PowerApps

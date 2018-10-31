@@ -1,21 +1,14 @@
 ### YamlMime:Module 
-uid: learn-test-sandbox.fallback-badge
+uid: learn-test-sandbox.test-orphan-module
 metadata: 
-  title: Customize an app
+  title: Test Orphan Module Changed Again
   description: Learn how to customize an app by adding controls, images, and logic.
   ms.date: 09/24/2018
-title: Customize an app 
+title: Test Orphan Module
 summary: Learn how to customize an app by adding controls, images, and logic.
 abstract: |
   In this module, you will:
   - Change the layout of a gallery.
-  - Change the data that a control shows.
-  - Change the order in which fields appear.
-  - Change the control with which a user provides information.
-  - Explore controls on each screen of an app.
-  - Format a number as a price.
-  - Color prices based on their values.
-  - Explore formulas in a generated app.
 cardDescription: Learn how to customize an app by adding controls, images, and logic.
 iconUrl: http://via.placeholder.com/120x120 
 levels:  
@@ -26,5 +19,5 @@ products:
 - bizapps-power-apps
 - bizapps-d365 
 units: 
-- learn-test-sandbox.fallback.2-handback-already
-achievement: learn-test-sandbox.fallback.badge-2  
+- learn-test-sandbox.test-orphan-module.unit-1
+achievement: learn-test-sandbox.orphan-module.badge  

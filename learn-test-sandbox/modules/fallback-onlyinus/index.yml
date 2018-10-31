@@ -1,5 +1,5 @@
 ### YamlMime:Module 
-uid: learn-test-sandbox.loadtest-1-customize 
+uid: learn-test-sandbox.fallback-only-in-us
 metadata: 
   title: Customize an app
   description: Learn how to customize an app by adding controls, images, and logic.
@@ -26,12 +26,5 @@ products:
 - bizapps-power-apps
 - bizapps-d365 
 units: 
-- learn-test-sandbox.loadtest-1-customize.1-powerapps-customize
-- learn-test-sandbox.loadtest-1-customize.2-powerapps-explore
-- learn-test-sandbox.loadtest-1-customize.3-powerapps-functions
-- learn-test-sandbox.loadtest-1-customize.4-quiz-customize-an-app
-- learn-test-sandbox.loadtest-1-customize.5-taskvalidation-powerapps
-- learn-test-sandbox.loadtest-1-customize.6-taskvalidation-1-powerapps
-- learn-test-sandbox.loadtest-1-customize.7-taskvalidation-2-powerapps
-- learn-test-sandbox.loadtest-1-customize.8-taskvalidation-3-powerapps
-achievement: learn-test-sandbox.loadtest-1-customize.badge  
+- learn-test-sandbox.fallback.2-only-in-us
+achievement: learn-test-sandbox.fallback.badge  

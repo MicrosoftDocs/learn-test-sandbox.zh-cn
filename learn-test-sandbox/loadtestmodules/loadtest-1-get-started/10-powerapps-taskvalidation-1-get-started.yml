@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit
+uid: learn-test-sandbox.loadtest-1-get-started.10-powerapps-taskvalidation-1-get-started
+title: "Create a storage account and validate"
+metadata:
+  title: Create a storage account and validate
+  description: Create a storage account and validate
+durationInMinutes: 10
+content: Create a storage account on Azure and validate --One pass task
+tasks:
+- action: exists
+  environment: azure
+  hint: "Make sure the storage account name matches 'tcrownstorageaccount18' and that the storage account is in your Resource Group."
+  azure:
+    resource:
+      type: Microsoft.Storage/storageAccounts
+      name: tcrownstorageaccount18
+  

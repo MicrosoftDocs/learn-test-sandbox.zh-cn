@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit 
-uid: learn-test-sandbox.fallback.2-handback-already
+uid: learn-test-sandbox.test-orphan-module.unit-1
 title: Improve apps by making basic customizations in PowerApps
 metadata: 
   title: Improve apps by making basic customizations in PowerApps
   description: Make basic customizations to your apps, such as choosing a layout and reordering fields. 
 durationInMinutes: 10 
 content: | 
-  Test fallback logic in test repo    
+  Test fallback logic in test repo  

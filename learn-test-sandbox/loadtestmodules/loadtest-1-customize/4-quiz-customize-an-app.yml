@@ -1,47 +1,47 @@
 ### YamlMime:ModuleUnit
 uid: learn-test-sandbox.loadtest-1-customize.4-quiz-customize-an-app
-title: "考试: 自定义一个app"
+title: "Knowledge check: Customize an app"
 metadata:
-  title: 自定义一个app的问答题（meta标题）
-  description: 就是考试别废话：咋自定义一个app.
+  title: Customize an app quiz
+  description: This quiz tests your knowledge of how to customize an app.
 durationInMinutes: 10
 content: Customize an app quiz
 quiz:
   title: Customize an app quiz
   questions:
-  - content: PowerApps里在哪里自定义?
+  - content: In PowerApps, where do you customize an app?
     choices: 
     - content: web.powerapps.com 
       isCorrect: false
-      incorrectExplanation: 哇哈哈，这都不会，错了好哇
+      incorrectExplanation: Web.powerapps.com is where you can view all your apps. It isn't where you customize them.
     - content: PowerApps Studio
-      correctExplanation: PowerApps Studio 就对了，厉害了.
+      correctExplanation: PowerApps Studio is where you customize your apps.
       isCorrect: true
     - content: Microsoft SharePoint
-      incorrectExplanation: SharePoint 是不行滴.
+      incorrectExplanation: SharePoint can be a data source for apps, but you don't customize apps there.
       isCorrect: false
     - content: Microsoft AppSource
-      incorrectExplanation: 这是用来安装的，不是用来自定义的好哇.
+      incorrectExplanation: You install apps from Microsoft AppSource, but you customize them in PowerApps Studio.
       isCorrect: false
-  - content: 啥啥啥?
+  - content: Which of the following isn't a screen in apps that PowerApps generates?
     choices:
     - content: Browse screen
-      incorrectExplanation: 自动打开的.
+      incorrectExplanation: The browse screen opens by default in apps that PowerApps generates.
       isCorrect: false
     - content: Edit/create screen
-      correctExplanation: 包含一切.
+      correctExplanation: When PowerApps generates an app, it contains browse, details, and edit/create screens.
       isCorrect: false
     - content: Preview pane
-      incorrectExplanation: 这个不是首页，悄悄地.
+      incorrectExplanation: Although the Run button does start your app so that you can preview it, the Preview pane isn't a main screen.
       isCorrect: true
-  - content: 谁先出现?
+  - content: Which screen opens by default in apps that PowerApps generates?
     choices:
     - content: Preview pane
-      incorrectExplanation: 这个不是首页，悄悄地出现.
+      incorrectExplanation: The Run button does start your app so that you can preview it, but the Preview pane isn't a main screen.
       isCorrect: false
     - content: Details screen
-      incorrectExplanation: 不是我呀不是我.
+      incorrectExplanation: The browse screen is the first screen. A details screen typically opens when a specific item is selected on the browse screen.
       isCorrect: false
     - content: Browse screen
-      correctExplanation: 看过来，是我是我还是我.
+      correctExplanation: When PowerApps apps start, the browse screen is always the first screen.
       isCorrect: true

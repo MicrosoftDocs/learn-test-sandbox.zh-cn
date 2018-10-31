@@ -18,7 +18,7 @@
     "live-sxs",
     "master-sxs"
   ],
-  "continue_with_document_error": false,
+  "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
   "contribution_branch_mappings": {},

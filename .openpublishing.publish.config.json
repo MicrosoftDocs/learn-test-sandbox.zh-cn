@@ -46,7 +46,8 @@
       "branch": "live",
       "branch_mapping": {
         "live": "live",
-        "master": "master"
+        "master": "master",
+	"partialpublish": "partialpublish"
       }
     }
   ],

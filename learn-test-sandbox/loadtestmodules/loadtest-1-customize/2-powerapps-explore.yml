@@ -1,9 +1,0 @@
-### YamlMime:ModuleUnit
-uid: learn-test-sandbox.loadtest-1-customize.2-powerapps-explore
-title: Explore screens and controls in PowerApps
-metadata:
-  title: Explore screens and controls in PowerApps
-  description: Learn about the default screens and controls in an app that PowerApps generates.
-durationInMinutes: 5
-content: | 
-  [!include[](includes/2-powerapps-explore.md)]  

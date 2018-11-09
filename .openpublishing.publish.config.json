@@ -15,7 +15,12 @@
         "LearningPath": "Content",
         "Module": "Content",
         "ModuleUnit": "Content"
-      }
+      },
+      "customized_tasks": {
+        "docset_postbuild": [
+            "_dependentPackages/CommonPlugins/tools/TripleCrownValidation.ps1"
+        ]
+    }
     }
   ],
   "notification_subscribers": [],

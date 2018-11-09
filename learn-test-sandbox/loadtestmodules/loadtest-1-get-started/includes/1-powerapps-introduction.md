@@ -17,6 +17,8 @@ The sky's the limit when it comes to using PowerApps to get things done and keep
 
 If you're a beginner with PowerApps, this module gets you going quickly. If you're familiar with PowerApps, it ties concepts together and fills in the gaps.
 
+[!code-javascript[](../code/find-bookmark-single.js)]
+
 ## PowerApps building blocks
 PowerApps is a collection of services, apps, and connectors that work together to let you do much more than just view your data. You can act on your data and update it anywhere and on any device.
 

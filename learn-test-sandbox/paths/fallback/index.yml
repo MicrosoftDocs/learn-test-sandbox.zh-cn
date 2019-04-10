@@ -17,4 +17,5 @@ metadata:
 modules:
 - learn-test-sandbox.fallback-module
 - learn-test-sandbox.fallback-badge
-achievement: learn-test-sandbox.fallback.trophy
+trophy: 
+  uid: learn-test-sandbox.fallback.trophy

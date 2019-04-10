@@ -27,4 +27,5 @@ products:
 - bizapps-d365 
 units: 
 - learn-test-sandbox.fallback.handback-already-onlyinloc-2
-achievement: learn-test-sandbox.fallback.badge  
+badge: 
+  uid: learn-test-sandbox.orphan-module-onlyinloc.badge  

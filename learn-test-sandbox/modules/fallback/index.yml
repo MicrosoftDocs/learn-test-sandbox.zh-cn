@@ -31,4 +31,5 @@ units:
 - learn-test-sandbox.fallback.updated-in-us
 - learn-test-sandbox.fallback.quizunit
 - learn-test-sandbox.fallback.taskvalidation-unit
-achievement: learn-test-sandbox.fallback.badge  
+badge: 
+  uid: learn-test-sandbox.fallback.badge  

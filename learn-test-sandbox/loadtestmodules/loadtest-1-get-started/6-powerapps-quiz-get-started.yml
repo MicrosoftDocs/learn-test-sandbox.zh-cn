@@ -18,36 +18,36 @@ quiz:
   - content: Where do you share an app with others?
     choices: 
     - content: In web.powerapps.com.
-      correctExplanation: In web.powerapps.com, you can share an app with others, allowing them to just run it or to both run and edit it.
+      explanation: In web.powerapps.com, you can share an app with others, allowing them to just run it or to both run and edit it.
       isCorrect: true
     - content: In the PowerApps admin center.
-      incorrectExplanation: You can manage environments and create databases in the PowerApps admin center, but you can't share apps from that location.
+      explanation: You can manage environments and create databases in the PowerApps admin center, but you can't share apps from that location.
       isCorrect: false
     - content: In Microsoft Dynamics 365.
-      incorrectExplanation: You can run apps in Dynamics 365, but you can't share them from that location.
+      explanation: You can run apps in Dynamics 365, but you can't share them from that location.
       isCorrect: false
     - content: In PowerApps Studio.
-      incorrectExplanation: You can design apps in PowerApps Studio, but you can't share them from that location.
+      explanation: You can design apps in PowerApps Studio, but you can't share them from that location.
       isCorrect: false
   - content: Which of these statements about data sources is true?
     choices:
     - content: In PowerApps, app data comes primarily from your local device.
-      incorrectExplanation: Data can come from many sources, including Microsoft SharePoint, Google Drive, and Salesforce.
+      explanation: Data can come from many sources, including Microsoft SharePoint, Google Drive, and Salesforce.
       isCorrect: false
     - content: Twitter can be a data source.
-      correctExplanation: You can use many data sources, including Twitter, Facebook, Microsoft SQL Server, and Salesforce.
+      explanation: You can use many data sources, including Twitter, Facebook, Microsoft SQL Server, and Salesforce.
       isCorrect: true
     - content: Dropbox can't be a data source.
-      incorrectExplanation: Dropbox is one of many data sources that you can use when you build an app in PowerApps.
+      explanation: Dropbox is one of many data sources that you can use when you build an app in PowerApps.
       isCorrect: false
   - content: Which of these statements *doesn't* describe a way to build apps?
     choices:
     - content: You can build an app from a template or a sample.
-      incorrectExplanation: PowerApps ships with many templates and samples from which you can build apps.
+      explanation: PowerApps ships with many templates and samples from which you can build apps.
       isCorrect: false
     - content: You can build an app from a blank screen.
-      incorrectExplanation: You can build an app from the ground up by adding UI elements that determine how the app looks and creating formulas that determine how the app behaves.
+      explanation: You can build an app from the ground up by adding UI elements that determine how the app looks and creating formulas that determine how the app behaves.
       isCorrect: false
     - content: You can build an app in PowerApps Mobile.
-      correctExplanation: You can run but not build apps in PowerApps Mobile.
+      explanation: You can run but not build apps in PowerApps Mobile.
       isCorrect: true

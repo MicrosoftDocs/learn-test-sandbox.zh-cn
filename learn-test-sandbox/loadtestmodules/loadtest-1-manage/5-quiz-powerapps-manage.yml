@@ -13,34 +13,34 @@ quiz:
   - content: What happens when you restore a previous version of an app?
     choices: 
     - content: The original app version is overwritten by a new one.
-      incorrectExplanation: The original version isn't overwritten. Another version is created.
+      explanation: The original version isn't overwritten. Another version is created.
       isCorrect: false
     - content: The new version is automatically available to everyone with whom the app is shared.
-      incorrectExplanation: The new version is added to your list of versions. It isn't automatically ready for team members to use until you explicitly publish it.
+      explanation: The new version is added to your list of versions. It isn't automatically ready for team members to use until you explicitly publish it.
       isCorrect: false
     - content: The new version is added to the list of versions.
-      correctExplanation: When an app is restored, the old version is never removed or overwritten. The new version just gets an incremented version number and is added to the top of the list.
+      explanation: When an app is restored, the old version is never removed or overwritten. The new version just gets an incremented version number and is added to the top of the list.
       isCorrect: true
   - content: What happens when you share a new version of an app?
     choices:
     - content: To see the new version, everyone with whom the app was shared must reinstall it.
-      incorrectExplanation: Everyone with whom you shared the app sees the new version automatically.
+      explanation: Everyone with whom you shared the app sees the new version automatically.
       isCorrect: false
     - content: Everyone with whom you shared the app will automatically see the new version.
-      correctExplanation: Everyone with whom you shared the app will automatically see the new version.
+      explanation: Everyone with whom you shared the app will automatically see the new version.
       isCorrect: true
     - content: All previous versions are deleted.
-      incorrectExplanation: Previous versions are retained unless you delete the app.
+      explanation: Previous versions are retained unless you delete the app.
       isCorrect: false
   - content: Which two groups need to know about environments?
     choices:
     - content: Administrators.
-      correctExplanation: Only administrators can create environments.
+      explanation: Only administrators can create environments.
       isCorrect: true
     - content: App users.
-      incorrectExplanation: App users can open shared apps regardless of the environment in which the apps were created.
+      explanation: App users can open shared apps regardless of the environment in which the apps were created.
       isCorrect: false
     - content: App makers.
-      correctExplanation: App makers must ensure that they create apps in the same environment as the resources - such as connections, entities, and flows - on which the apps rely.
+      explanation: App makers must ensure that they create apps in the same environment as the resources - such as connections, entities, and flows - on which the apps rely.
       isCorrect: false
       

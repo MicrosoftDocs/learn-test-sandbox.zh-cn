@@ -13,35 +13,35 @@ quiz:
     choices: 
     - content: web.powerapps.com 
       isCorrect: false
-      incorrectExplanation: 哇哈哈，这都不会，错了好哇
+      explanation: 哇哈哈，这都不会，错了好哇
     - content: PowerApps Studio
-      correctExplanation: PowerApps Studio 就对了，厉害了.
+      explanation: PowerApps Studio 就对了，厉害了.
       isCorrect: true
     - content: Microsoft SharePoint
-      incorrectExplanation: SharePoint 是不行滴.
+      explanation: SharePoint 是不行滴.
       isCorrect: false
     - content: Microsoft AppSource
-      incorrectExplanation: 这是用来安装的，不是用来自定义的好哇.
+      explanation: 这是用来安装的，不是用来自定义的好哇.
       isCorrect: false
   - content: 啥啥啥?
     choices:
     - content: Browse screen
-      incorrectExplanation: 自动打开的.
+      explanation: 自动打开的.
       isCorrect: false
     - content: Edit/create screen
-      correctExplanation: 包含一切.
+      explanation: 包含一切.
       isCorrect: false
     - content: Preview pane
-      incorrectExplanation: 这个不是首页，悄悄地.
+      explanation: 这个不是首页，悄悄地.
       isCorrect: true
   - content: 谁先出现?
     choices:
     - content: Preview pane
-      incorrectExplanation: 这个不是首页，悄悄地出现.
+      explanation: 这个不是首页，悄悄地出现.
       isCorrect: false
     - content: Details screen
-      incorrectExplanation: 不是我呀不是我.
+      explanation: 不是我呀不是我.
       isCorrect: false
     - content: Browse screen
-      correctExplanation: 看过来，是我是我还是我.
+      explanation: 看过来，是我是我还是我.
       isCorrect: true

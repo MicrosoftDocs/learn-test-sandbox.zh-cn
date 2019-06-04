@@ -1,0 +1,31 @@
+### YamlMime:Module 
+uid: learn-test-sandbox.fallback-only-in-us.browsetestloc
+metadata: 
+  title: 这个是测试标题。
+  description: 这个是测试描述。
+  ms.date: 09/24/2018
+title: 自定义一个app
+summary: 学习怎样定义一个app的摘要
+abstract: |
+  In this module, you will:
+  - Change the layout of a gallery.
+  - Change the data that a control shows.
+  - Change the order in which fields appear.
+  - Change the control with which a user provides information.
+  - Explore controls on each screen of an app.
+  - Format a number as a price.
+  - Color prices based on their values.
+  - Explore formulas in a generated app.
+cardDescription: 学习怎样自定义一个powerapps.
+iconUrl: http://via.placeholder.com/120x120 
+levels:  
+- beginner 
+roles:  
+- business-user 
+products:  
+- bizapps-power-apps
+- bizapps-d365 
+units: 
+- learn-test-sandbox.fallback.2-only-in-us.browsetestloc
+badge: 
+  uid: learn-test-sandbox.browsetestloc2.badge  

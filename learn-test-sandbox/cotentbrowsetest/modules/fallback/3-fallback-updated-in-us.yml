@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit 
+uid: learn-test-sandbox.fallback.updated-in-us.browsetestloc
+title: Get started with functions in PowerApps
+metadata: 
+  title: Get started with functions in PowerApps
+  description: Get started with default functions in apps that PowerApps generates.
+durationInMinutes: 15 
+content: | 
+  Test fallback logic in test repo   

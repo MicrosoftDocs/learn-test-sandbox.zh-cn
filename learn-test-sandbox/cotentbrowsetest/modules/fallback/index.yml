@@ -1,0 +1,36 @@
+### YamlMime:Module 
+uid: learn-test-sandbox.fallback-module.browsetestloc
+metadata: 
+  title: 中文测试 - browsetestloc-updatemodule
+  description: 中文描述 - browsetestloc-updatemodule-Learn how to customize an app by adding controls, images, and logic.
+  ms.date: 05/24/2019
+title: 标题 Customize an app -browsetestloc-updatemodule
+summary: browsetestloc-updatemodule - Learn how to customize an app by adding controls, images, and logic.
+abstract: |
+  In this module, you will:
+  - Change the layout of a gallery.
+  - Change the data that a control shows.
+  - Change the order in which fields appear.
+  - Change the control with which a user provides information.
+  - Explore controls on each screen of an app.
+  - Format a number as a price.
+  - Color prices based on their values.
+  - Explore formulas in a generated app.
+cardDescription: 描述喵喵browsetestloc-updatemodule-Learn how to customize an app by adding controls, images, and logic.
+iconUrl: http://via.placeholder.com/130x130 
+levels:  
+- intermediate 
+roles:  
+- business-user 
+- functional-consultant
+products:  
+- bizapps-power-apps
+- bizapps-d365 
+units: 
+- learn-test-sandbox.fallback.handback-already.browsetestloc
+- learn-test-sandbox.fallback.only-in-us.browsetestloc
+- learn-test-sandbox.fallback.updated-in-us.browsetestloc
+- learn-test-sandbox.fallback.quizunit.browsetestloc
+- learn-test-sandbox.fallback.taskvalidation-unit.browsetestloc
+badge: 
+  uid: learn-test-sandbox.browsetestloc.badge.1

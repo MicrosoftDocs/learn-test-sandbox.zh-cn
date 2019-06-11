@@ -9,7 +9,18 @@
       "moniker_ranges": [],
       "open_to_public_contributors": false,
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "customized_tasks": {
+        "docset_postbuild": [
+            "_dependentPackages/CommonPlugins/tools/TripleCrownValidation.ps1"
+        ]
+      },
+      "type_mapping": {
+        "Achievements": "Toc",
+        "LearningPath": "Content",
+        "Module": "Content",
+        "ModuleUnit": "Content"
+      }
     }
   ],
   "notification_subscribers": [],

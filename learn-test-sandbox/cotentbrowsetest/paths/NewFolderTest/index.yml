@@ -1,5 +1,5 @@
 ### YamlMime:LearningPath
-uid: learn-test-sandbox.browsertest.1
+uid: learn-test-sandbox.browsertestloc.1
 title: LP 在中文环境在的测试browsertestupdate - Create an app in PowerApps
 summary: 我是summary。
 cardDescription: 这是中文描述。
@@ -20,4 +20,4 @@ metadata:
 modules:
 - learn-test-sandbox.fallback-module.browsetestloc
 - learn-test-sandbox.fallback-only-in-us.browsetestloc
-achievement: learn-test-sandbox.fallback.trophy
+achievement: learn-test-sandbox.loadtest-1.trophy

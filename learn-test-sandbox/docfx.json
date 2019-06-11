@@ -3,6 +3,12 @@
     "content": [
       {
         "files": [
+          "achievements.yml"
+        ],
+        "dest": "achievements/bizapps/"
+      },
+      {
+        "files": [
           "**/*.md",
           "**/*.yml"
         ],

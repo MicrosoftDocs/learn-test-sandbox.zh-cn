@@ -43,7 +43,9 @@
     "globalMetadata": {
       "breadcrumb_path": "/learn-sandbox/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "clicktale": true,
+      "uhfHeaderId":"MSDocsHeader-Learn"
     },
     "fileMetadata": {},
     "template": [],

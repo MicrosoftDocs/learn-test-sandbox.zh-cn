@@ -1,0 +1,27 @@
+### YamlMime:Module 
+uid: learn-test-sandbox.test-orphan-module
+metadata: 
+  title: 中文 Test Orphan Module Changed Again
+  description: 中文 Learn how to customize an app by adding controls, images, and logic.
+  ms.date: 09/24/2018
+title: 中文 Test Orphan Module
+summary: 中文 Learn how to customize an app by adding controls, images, and logic .
+abstract: |
+  In this module, you will:
+  - Change the layout of a gallery.
+cardDescription: 中文 Learn how to customize an app by adding controls, images, and logic.
+iconUrl: http://via.placeholder.com/120x120 
+levels:  
+- beginner 
+roles:  
+- business-user 
+products:  
+- bizapps-power-apps
+- bizapps-d365
+- dynamics-field-service
+- common-data-service
+- flow
+units: 
+- learn-test-sandbox.test-orphan-module.unit-1
+badge: 
+  uid: learn-test-sandbox.orphan-module.badge  

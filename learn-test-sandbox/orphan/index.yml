@@ -1,15 +1,15 @@
 ### YamlMime:Module 
 uid: learn-test-sandbox.test-orphan-module
 metadata: 
-  title: 中文 Test Orphan Module Changed Again
-  description: 中文 Learn how to customize an app by adding controls, images, and logic.
+  title: Update 中文 Test Orphan Module Changed Again
+  description: Update 中文 Learn how to customize an app by adding controls, images, and logic.
   ms.date: 09/24/2018
-title: 中文 Test Orphan Module
-summary: 中文 Learn how to customize an app by adding controls, images, and logic .
+title: Update 中文 Test Orphan Module
+summary: Update 中文 Learn how to customize an app by adding controls, images, and logic .
 abstract: |
   In this module, you will:
   - Change the layout of a gallery.
-cardDescription: 中文 Learn how to customize an app by adding controls, images, and logic.
+cardDescription: Update 中文 Learn how to customize an app by adding controls, images, and logic.
 iconUrl: http://via.placeholder.com/120x120 
 levels:  
 - beginner 

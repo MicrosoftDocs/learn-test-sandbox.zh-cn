@@ -1,0 +1,21 @@
+### YamlMime:LearningPath
+uid: learn-test-sandbox.browsertestloc.1
+title: browsertest - Create an app in PowerApps
+summary: browsertest - This learning path introduces you to PowerApps, helps you create and customize an app, and then manage and distribute it. 
+cardDescription: Create, customize and share an app
+iconUrl: http://via.placeholder.com/120x120 
+levels:
+- beginner
+roles:
+- business-user
+products:
+- bizapps-power-apps
+prerequisites: This learning path assumes that you're familiar with OneDrive, SharePoint, and Excel.
+metadata:
+  title: Create an app in PowerApps
+  description: This learning path introduces you to PowerApps
+  ms.date: 07/29/2019
+modules:
+- learn-test-sandbox.fallback-module.browsetestloc
+- learn-test-sandbox.fallback-only-in-us.browsetestloc
+achievement: learn-test-sandbox.fallbackloc.trophy

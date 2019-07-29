@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit 
+uid: learn-test-sandbox.moveFolder.handback-already.browsetestzhcn
+title: 自定义PowerApps改进
+metadata: 
+  title: Improve apps by making basic customizations in PowerApps
+  description: Make basic customizations to your apps, such as choosing a layout and reordering fields. 
+durationInMinutes: 10 
+content: | 
+  Test module movement logic in test repo  

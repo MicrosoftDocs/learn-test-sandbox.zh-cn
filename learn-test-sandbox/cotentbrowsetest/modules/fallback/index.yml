@@ -24,8 +24,7 @@ roles:
 - business-user 
 - functional-consultant
 products:  
-- bizapps-power-apps
-- bizapps-d365 
+- m365 
 units: 
 - learn-test-sandbox.fallback.handback-already.browsetestloc
 - learn-test-sandbox.fallback.only-in-us.browsetestloc

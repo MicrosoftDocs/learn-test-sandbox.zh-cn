@@ -9,9 +9,7 @@ levels:
 roles:
 - functional-consultant
 products:
-- power-platform
-- bizapps-power-apps
-- bizapps-d365 
+- m365
 prerequisites: This learning path assumes that you're familiar with OneDrive, SharePoint, and Excel.
 metadata:
   title: LP 在中文环境在的测试

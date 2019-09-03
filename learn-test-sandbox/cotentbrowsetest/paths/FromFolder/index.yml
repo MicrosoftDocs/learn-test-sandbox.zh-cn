@@ -9,7 +9,7 @@ levels:
 roles:
 - business-user
 products:
-- bizapps-power-apps
+- m365
 prerequisites: This learning path assumes that you're familiar with OneDrive, SharePoint, and Excel.
 metadata:
   title: 在PowerApps中创建一个app

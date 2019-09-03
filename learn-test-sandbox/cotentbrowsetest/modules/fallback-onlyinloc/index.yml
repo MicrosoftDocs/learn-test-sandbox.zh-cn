@@ -23,8 +23,7 @@ levels:
 roles:  
 - business-user 
 products:  
-- bizapps-power-apps
-- bizapps-d365 
+- m365 
 units: 
 - learn-test-sandbox.fallback.2-only-in-us.browsetestloc
 badge: 

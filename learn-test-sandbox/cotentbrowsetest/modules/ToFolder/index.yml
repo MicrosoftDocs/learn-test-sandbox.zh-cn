@@ -6,7 +6,7 @@ metadata:
   ms.date: 05/24/2019
 title: BrowseTest - Customize an app
 summary: MoveModuleFileTest.
-abstract:
+abstract: |
   In this module, you will:
   - Change the layout of a gallery.
   - Change the data that a control shows.

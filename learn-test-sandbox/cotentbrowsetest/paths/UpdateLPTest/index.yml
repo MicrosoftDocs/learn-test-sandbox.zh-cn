@@ -12,7 +12,7 @@ products:
 - m365
 prerequisites: This learning path assumes that you're familiar with OneDrive, SharePoint, and Excel.
 metadata:
-  title: LP 在中文环境在的测试 - 在powerapps里面创建一个应用 - 新标题20200709041601
+  title: LP 在中文环境在的测试 - 在powerapps里面创建一个应用
   description: 这个是关于介绍powapps的学习路径
   ms.date: 05/12/2019
 modules:

@@ -1,7 +1,7 @@
 ### YamlMime:Module 
 uid: learn-test-sandbox.fallback-module.browsetestloc
 metadata: 
-  title: 新标题 Customize an app -browsetestloc20200712042113
+  title: 标题 Customize an app -browsetestloc
   description: 中文描述 - browsetestloc-updatemodule-Learn how to customize an app by adding controls, images, and logic.
   ms.date: 05/24/2019
 title: 中文测试 - browsetestloc-updatemodule

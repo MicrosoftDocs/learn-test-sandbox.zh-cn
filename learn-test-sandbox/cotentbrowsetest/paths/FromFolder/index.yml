@@ -1,6 +1,6 @@
 ### YamlMime:LearningPath
 uid: learn-test-sandbox.browsertestloc.2
-title: 在PowerApps中创建一个app
+title: browserMoveLPTest - Create an app in PowerApps
 summary: browsertest - This learning path introduces you to PowerApps, helps you create and customize an app, and then manage and distribute it. 
 iconUrl: http://via.placeholder.com/120x120 
 levels:
@@ -11,7 +11,7 @@ products:
 - m365
 prerequisites: This learning path assumes that you're familiar with OneDrive, SharePoint, and Excel.
 metadata:
-  title: browserMoveLPTest - Create an app in PowerApps
+  title: 在PowerApps中创建一个app
   description: This learning path introduces you to PowerApps
   ms.date: 07/29/2019
 modules:

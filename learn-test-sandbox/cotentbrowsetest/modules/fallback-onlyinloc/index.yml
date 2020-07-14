@@ -16,7 +16,6 @@ abstract: |
   - Format a number as a price.
   - Color prices based on their values.
   - Explore formulas in a generated app.
-cardDescription: 学习怎样自定义一个powerapps.
 iconUrl: http://via.placeholder.com/120x120 
 levels:  
 - beginner 

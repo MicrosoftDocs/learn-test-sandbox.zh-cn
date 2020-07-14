@@ -16,7 +16,6 @@ abstract: |
   - Format a number as a price.
   - Color prices based on their values.
   - Explore formulas in a generated app.
-cardDescription: 描述喵喵browsetestloc-updatemodule-Learn how to customize an app by adding controls, images, and logic.
 iconUrl: http://via.placeholder.com/130x130 
 levels:  
 - intermediate 

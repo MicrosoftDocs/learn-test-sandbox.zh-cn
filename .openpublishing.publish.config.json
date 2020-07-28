@@ -1,4 +1,5 @@
 {
+  "docs_build_engine": {"name": "docfx_v2"},
   "docsets_to_publish": [
     {
       "docset_name": "learn-test-sandbox",

@@ -1,0 +1,26 @@
+### YamlMime:Module
+uid: learn-test-sandbox.loadtest-1-manage-loconly 
+title: Manage apps in PowerApps
+summary: Manage app versions, app sharing, and environments in PowerApps.  
+iconUrl: http://via.placeholder.com/120x120
+levels: 
+- beginner
+roles: 
+- business-user
+products: 
+- m365
+metadata: 
+  title: Manage apps in PowerApps
+  description: Manage app versions, app sharing, and environments in PowerApps.
+  ms.date: 09/24/2018
+abstract: |
+  In this module, you will: 
+  - Learn how to review and restore app versions.
+  - Explore how to share an app, including permissions and notification.
+  - Understand what environments are, how to create them, and how to manage security.
+  - Find more information about PowerApps.
+prerequisites: None
+units: 
+- learn-test-sandbox.loadtest-1-manage.1-powerapps-versions-loconly
+badge: 
+  uid: learn-test-sandbox.loadtest-1-manage.badge-loconly

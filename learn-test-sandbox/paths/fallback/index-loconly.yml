@@ -1,5 +1,5 @@
 ### YamlMime:LearningPath
-uid: learn-test-sandbox.fallback
+uid: learn-test-sandbox.fallback-loconly
 title: fallbacktesting-Create an app in PowerApps
 summary: fallbacktesting - This learning path introduces you to PowerApps, helps you create and customize an app, and then manage and distribute it. 
 iconUrl: http://via.placeholder.com/120x120
@@ -14,9 +14,6 @@ metadata:
   title: Create an app in PowerApps
   description: This learning path introduces you to PowerApps, helps you create and customize an app, and then manage and distribute it.
 modules:
-- learn-test-sandbox.fallback-module
-- learn-test-sandbox.fallback-only-in-us
-- learn-test-sandbox.fallback-badge
 - learn-test-sandbox.loadtest-1-manage-loconly
 trophy:
-  uid: learn-test-sandbox.fallback.trophy 
+  uid: learn-test-sandbox.fallback.trophy-loconly 

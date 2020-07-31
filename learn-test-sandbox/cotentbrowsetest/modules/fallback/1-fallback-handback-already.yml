@@ -1,9 +1,9 @@
 ### YamlMime:ModuleUnit 
-uid: learn-test-sandbox.loadtest-1-customize.1-powerapps-customize
+uid: learn-test-sandbox.fallback.handback-already.browsetest
 title: Improve apps by making basic customizations in PowerApps
 metadata: 
   title: Improve apps by making basic customizations in PowerApps
   description: Make basic customizations to your apps, such as choosing a layout and reordering fields. 
 durationInMinutes: 10 
 content: | 
-  [!include[](includes/1-powerapps-customize.md)]
+  Test fallback logic in test repo  

@@ -1,10 +1,10 @@
 ### YamlMime:Module 
-uid: learn-test-sandbox.orphan-module-onlyinloc
+uid: learn-test-sandbox.fallback-only-in-us.browsetest
 metadata: 
   title: Customize an app
   description: Learn how to customize an app by adding controls, images, and logic.
   ms.date: 09/24/2018
-title: 我是只活在中文里的没人要的莫丢哟-Customize an app 
+title: Customize an app 
 summary: Learn how to customize an app by adding controls, images, and logic.
 abstract: |
   In this module, you will:
@@ -16,15 +16,14 @@ abstract: |
   - Format a number as a price.
   - Color prices based on their values.
   - Explore formulas in a generated app.
-cardDescription: Learn how to customize an app by adding controls, images, and logic.
 iconUrl: http://via.placeholder.com/120x120 
 levels:  
 - beginner 
 roles:  
 - business-user 
 products:  
-- bizapps-power-apps
-- bizapps-d365 
+- m365
 units: 
-- learn-test-sandbox.fallback.handback-already-onlyinloc-2
-achievement: learn-test-sandbox.fallback.badge  
+- learn-test-sandbox.fallback.2-only-in-us.browsetest
+badge: 
+  uid: learn-test-sandbox.browsetest2.badge  

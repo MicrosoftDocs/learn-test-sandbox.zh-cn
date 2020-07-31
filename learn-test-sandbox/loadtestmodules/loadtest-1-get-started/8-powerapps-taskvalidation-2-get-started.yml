@@ -1,0 +1,25 @@
+### YamlMime:ModuleUnit
+uid: learn-test-sandbox.loadtest-1-get-started.8-powerapps-taskvalidation-2-get-started
+title: "Create storage account, server farm on azure and validate"
+metadata:
+  title: Create storage account, server farm on azure and validate
+  description: Create storage account, server farm on azure and validate
+durationInMinutes: 10
+content: Create storage account, server farm on azure and validate - Two pass tasks
+tasks:
+- action: exists
+  environment: azure
+  hint: "Make sure the Sql server name matches 'tcsqlserver18' and that the Sql server is in your Resource Group."
+  azure:
+    resource:
+      type: Microsoft.Sql/servers
+      name: tcsqlserver18
+      location: westus2 
+- action: exists
+  environment: azure
+  hint: "Make sure the database name matches 'tcsqlserver18/master' and that the database is in your Resource Group."
+  azure:
+    resource:
+      type: Microsoft.Sql/servers/databases
+      name: tcsqlserver18/master
+      kind: v12.0,system

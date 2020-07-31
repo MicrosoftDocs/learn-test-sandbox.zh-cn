@@ -1,16 +1,14 @@
 ### YamlMime:Module
 uid: learn-test-sandbox.loadtest-1-manage 
-title: Manage apps in PowerApps 
-summary: Manage app versions, app sharing, and environments in PowerApps. 
-cardDescription: Manage app versions, app sharing, and environments in PowerApps. 
+title: Manage apps in PowerApps
+summary: Manage app versions, app sharing, and environments in PowerApps.  
 iconUrl: http://via.placeholder.com/120x120
 levels: 
 - beginner
 roles: 
 - business-user
 products: 
-- bizapps-power-apps
-- bizapps-d365
+- m365
 metadata: 
   title: Manage apps in PowerApps
   description: Manage app versions, app sharing, and environments in PowerApps.
@@ -29,4 +27,7 @@ units:
 - learn-test-sandbox.loadtest-1-manage.4-review-powerapps
 - learn-test-sandbox.loadtest-1-manage.5-quiz-manage-apps
 - learn-test-sandbox.loadtest-1-manage.6-taskvalidation-manage-apps
-achievement: learn-test-sandbox.loadtest-1-manage.badge
+- learn-test-sandbox.loadtest-1-manage.7-taskvalidation-2-manage-apps
+- learn-test-sandbox.loadtest-1-manage.8-taskvalidation-3-manage-apps
+badge: 
+  uid: learn-test-sandbox.loadtest-1-manage.badge

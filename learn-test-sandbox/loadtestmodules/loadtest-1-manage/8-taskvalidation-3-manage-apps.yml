@@ -1,0 +1,41 @@
+### YamlMime:ModuleUnit
+uid: learn-test-sandbox.loadtest-1-manage.8-taskvalidation-3-manage-apps
+title: "Create an app, remove storage account and VM on azure"
+metadata:
+  title: Create an app, remove storage account and VM on azure
+  description: Create an app, remove storage account and VM on azure
+durationInMinutes: 10
+content: Create an app, remove storage account and VM on azure - Three partial pass tasks
+tasks:
+  - action: exists
+    environment: azure
+    hint: "Make sure the web app site name matches 'smoketestbot' and that the app is in your Resource Group"
+    azure:
+      resource:
+        type: Microsoft.Web/sites
+        name: smoketestbot
+        kind: app
+        loacation: westus
+        identity:
+          principalId: 1bf327d3-6d86-4958-ba4f-e6cfadc0d696
+          tenantId: 72f988bf-86f1-41af-91ab-2d7cd011db47
+          type: SystemAssigned
+  - action: not-exists
+    environment: azure
+    hint: "Please make sure the storage account name matches 'tcrownstorageaccount18' removed."
+    azure:
+      resource:
+        type: Microsoft.Storage/storageAccounts
+        name: tcrownstorageaccount18
+        location: westus2
+        sku:
+          name: Standard_GRS
+          tier: Standard
+  - action: not-exists
+    environment: azure
+    hint: "Please make sure the virtual machine name matches 'smoketestBot' removed."
+    azure:
+      resource:
+        type: Microsoft.Compute/virtualMachines
+        name: smoketestBot
+        location: westus2

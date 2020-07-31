@@ -1,15 +1,15 @@
 ### YamlMime:ModuleUnit
 uid: learn-test-sandbox.loadtest-1-customize.5-taskvalidation-powerapps
-title: 外力得特
+title: "Customize an app and validate"
 metadata:
   title: Customize an app and validate
-  description: 创建一个test app然后外力的特一下
+  description: Create a test app and validate creation
 durationInMinutes: 10
-content: 在azure上创建一个test
+content: Create a test app on Azure
 tasks:
 - action: exists
   environment: azure
-  hint: "记得 web app名字叫这个：'loadtestwebapp'。 这个家伙在叫这个'TrialsResourceGroup'的resource group里"
+  hint: "Make sure the web app name matches 'loadtestwebapp' and that the app is in a Resource Grouped named 'TrialsResourceGroup'"
   azure:
     resource:
       type: Microsoft.Web/sites

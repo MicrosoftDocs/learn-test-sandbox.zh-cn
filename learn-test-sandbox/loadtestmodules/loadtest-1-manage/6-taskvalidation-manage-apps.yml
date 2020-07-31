@@ -9,9 +9,7 @@ content: Create a storage account on Azure and validate
 tasks:
 - action: exists
   environment: azure
-  hint: "Make sure the storage account name matches 'tcrownstorageaccount18' and that the storage account is in your Resource Group."
+  hint: "Make sure the storage account name matches 'trialsresourcegroup290'."
   azure:
     resource:
-      type: Microsoft.Storage/storageAccounts
-      name: tcrownstorageaccount18
-  
+      type: Microsoft.DocumentDB/databaseAccounts

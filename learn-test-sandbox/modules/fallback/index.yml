@@ -4,7 +4,7 @@ metadata:
   title: Customize an app
   description: Learn how to customize an app by adding controls, images, and logic.
   ms.date: 09/24/2018
-title: 我是中文的-Customize an app 
+title: Customize an app 
 summary: Learn how to customize an app by adding controls, images, and logic.
 abstract: |
   In this module, you will:
@@ -16,19 +16,18 @@ abstract: |
   - Format a number as a price.
   - Color prices based on their values.
   - Explore formulas in a generated app.
-cardDescription: Learn how to customize an app by adding controls, images, and logic.
 iconUrl: http://via.placeholder.com/120x120 
 levels:  
 - beginner 
 roles:  
 - business-user 
 products:  
-- bizapps-power-apps
-- bizapps-d365 
+- m365
 units: 
 - learn-test-sandbox.fallback.handback-already
 - learn-test-sandbox.fallback.only-in-us
 - learn-test-sandbox.fallback.updated-in-us
 - learn-test-sandbox.fallback.quizunit
 - learn-test-sandbox.fallback.taskvalidation-unit
-achievement: learn-test-sandbox.fallback.badge  
+badge: 
+  uid: learn-test-sandbox.fallback.badge

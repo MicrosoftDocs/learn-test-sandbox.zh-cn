@@ -1,11 +1,11 @@
 ### YamlMime:Module 
-uid: learn-test-sandbox.fallback-badge
+uid: learn-test-sandbox.MoveFolder-module.browsetest
 metadata: 
-  title: Customize an app
-  description: Learn how to customize an app by adding controls, images, and logic.
-  ms.date: 09/24/2018
-title: Customize an app 
-summary: Learn how to customize an app by adding controls, images, and logic.
+  title: BrowseTest - Customize an app
+  description: BrowseTest - Learn how to customize an app by adding controls, images, and logic.
+  ms.date: 05/24/2019
+title: BrowseTest - MoveModuleFile
+summary: MoveModuleFileTest.
 abstract: |
   In this module, you will:
   - Change the layout of a gallery.
@@ -18,12 +18,13 @@ abstract: |
   - Explore formulas in a generated app.
 iconUrl: http://via.placeholder.com/120x120 
 levels:  
-- beginner 
+- intermediate 
 roles:  
 - business-user 
+- functional-consultant
 products:  
 - m365
 units: 
-- learn-test-sandbox.fallback.2-handback-already
-badge:
-  uid: learn-test-sandbox.fallback.badge-2  
+- learn-test-sandbox.moveFolder.handback-already.browsetest
+badge: 
+  uid: learn-test-sandbox.movemodule.badge

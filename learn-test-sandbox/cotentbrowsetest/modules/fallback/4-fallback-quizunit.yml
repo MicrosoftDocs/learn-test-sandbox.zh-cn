@@ -1,5 +1,5 @@
 ### YamlMime:ModuleUnit
-uid: learn-test-sandbox.loadtest-1-customize.4-quiz-customize-an-app
+uid: learn-test-sandbox.fallback.quizunit.browsetest
 title: "Knowledge check: Customize an app"
 metadata:
   title: Customize an app quiz
@@ -13,9 +13,9 @@ quiz:
     choices: 
     - content: web.powerapps.com 
       isCorrect: false
-      explanation: Modify incorrect explanation20190128083537
+      explanation: Web.powerapps.com is where you can view all your apps. It isn't where you customize them.
     - content: PowerApps Studio
-      explanation: Modify correct explanation20190128083537
+      explanation: PowerApps Studio is where you customize your apps.
       isCorrect: true
     - content: Microsoft SharePoint
       explanation: SharePoint can be a data source for apps, but you don't customize apps there.

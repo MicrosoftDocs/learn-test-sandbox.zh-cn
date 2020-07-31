@@ -1,0 +1,20 @@
+### YamlMime:LearningPath
+uid: learn-test-sandbox.updateLPTest.2
+title: updateLPTest - Create an app in PowerApps
+summary: updateSummary - This learning path introduces you to PowerApps, helps you create and customize an app, and then manage and distribute it. 
+iconUrl: http://via.placeholder.com/120x120
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- power-platform
+prerequisites: This learning path assumes that you're familiar with OneDrive, SharePoint, and Excel.
+metadata:
+  title: Create an app in PowerApps
+  description: This learning path introduces you to PowerApps
+  ms.date: 09/29/2018
+modules:
+- learn-test-sandbox.fallback-module.browsetest
+achievement: learn-test-sandbox.fallback.trophy

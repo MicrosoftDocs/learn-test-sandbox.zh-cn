@@ -17,6 +17,6 @@ modules:
 - learn-test-sandbox.fallback-module
 - learn-test-sandbox.fallback-only-in-us
 - learn-test-sandbox.fallback-badge
-- learn-test-sandbox.loadtest-1-manage-loconly
+- learn-test-sandbox.loadtest-1-manage
 trophy:
   uid: learn-test-sandbox.fallback.trophy 

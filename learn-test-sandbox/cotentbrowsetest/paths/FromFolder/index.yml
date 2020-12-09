@@ -15,6 +15,5 @@ metadata:
   description: This learning path introduces you to PowerApps
   ms.date: 07/29/2019
 modules:
-- learn-test-sandbox.fallback-module.browsetestloc
 - learn-test-sandbox.fallback-only-in-us.browsetestloc
 achievement: learn-test-sandbox.loadtest-1.trophy

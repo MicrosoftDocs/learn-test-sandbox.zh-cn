@@ -1,0 +1,30 @@
+### YamlMime:Module 
+uid: learn-test-sandbox.loctest.e2etest
+metadata: 
+  title: 本地测试。
+  description: 这个是测试描述。
+  ms.date: 09/24/2020
+title: 这个是本地化测试模块
+summary: 用来测试用的
+abstract: |
+  In this module, you will:
+  - Change the layout of a gallery.
+  - Change the data that a control shows.
+  - Change the order in which fields appear.
+  - Change the control with which a user provides information.
+  - Explore controls on each screen of an app.
+  - Format a number as a price.
+  - Color prices based on their values.
+  - Explore formulas in a generated app.
+iconUrl: http://via.placeholder.com/120x120 
+levels:  
+- beginner 
+roles:  
+- business-user 
+products:  
+- m365 
+units: 
+- learn-test-sandbox.progresstestloc.browsetest.001
+
+badge: 
+  uid: learn-test-sandbox.browsetestloc3.badge.3

@@ -25,6 +25,10 @@ products:
 - m365 
 units: 
 - learn-test-sandbox.progresstestloc.browsetest.001
+- learn-test-sandbox.progresstestloc.browsetest.002
+- learn-test-sandbox.progresstestloc.browsetest.003
+- learn-test-sandbox.progresstestloc.browsetest.004
+- learn-test-sandbox.progresstestloc.browsetest.005
 
 badge: 
   uid: learn-test-sandbox.browsetestloc3.badge.3

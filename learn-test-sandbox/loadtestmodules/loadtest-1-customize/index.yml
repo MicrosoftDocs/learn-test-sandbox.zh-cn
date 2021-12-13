@@ -24,7 +24,7 @@ roles:
 - business-user 
 products:  
 - bizapps-power-apps
-- bizapps-d365 
+- dynamics-365 
 units: 
 - learn-test-sandbox.loadtest-1-customize.1-powerapps-customize
 - learn-test-sandbox.loadtest-1-customize.2-powerapps-explore

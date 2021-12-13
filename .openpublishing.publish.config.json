@@ -37,7 +37,7 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft.zh-cn",
-      "branch": "main",
+      "branch": "master",
       "branch_mapping": {}
     },
     {
@@ -51,9 +51,6 @@
     }
   ],
   "branch_target_mapping": {},
-  "docs_build_engine": {
-    "name": "docfx_v2"
-  },
   "dependent_packages": [
     {
       "id": "Microsoft.OpenPublishing.CommonPlugins",

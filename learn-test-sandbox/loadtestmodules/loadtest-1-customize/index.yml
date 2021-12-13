@@ -1,11 +1,11 @@
 ### YamlMime:Module 
 uid: learn-test-sandbox.loadtest-1-customize 
 metadata: 
-  title: 自定义
-  description: 学习一下咋自定义 by adding controls, images, and logic.
+  title: 自定�
+  description: 学习一下咋自定�by adding controls, images, and logic.
   ms.date: 09/24/2018
-title: 自定义一个 app 
-summary: 学习一下咋自定义 by adding controls, images, and logic.
+title: 自定义一�app 
+summary: 学习一下咋自定�by adding controls, images, and logic.
 abstract: |
   In this module, you will:
   - Change the layout of a gallery.

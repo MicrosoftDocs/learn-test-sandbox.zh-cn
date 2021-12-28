@@ -11,15 +11,14 @@ abstract: |
   - Understand how you use different technologies to perform different tasks in PowerApps.
   - Understand the different ways to build an app in PowerApps.
   - Create your first app from data in an Excel workbook.
-cardDescription: Learn the basics of PowerApps and how you can use it in your organization.
 iconUrl: http://via.placeholder.com/120x120
 levels: 
 - beginner
 roles: 
 - business-user
-products: 
-- bizapps-power-apps
-- bizapps-d365
+products:
+- power-apps
+- dynamics-365
 units:
 - learn-test-sandbox.loadtest-1-get-started.1-powerapps-introduction
 - learn-test-sandbox.loadtest-1-get-started.2-powerapps-building-blocks

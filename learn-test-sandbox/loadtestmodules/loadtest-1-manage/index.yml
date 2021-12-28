@@ -2,15 +2,14 @@
 uid: learn-test-sandbox.loadtest-1-manage 
 title: Manage apps in PowerApps 
 summary: Manage app versions, app sharing, and environments in PowerApps. 
-cardDescription: Manage app versions, app sharing, and environments in PowerApps. 
 iconUrl: http://via.placeholder.com/120x120
 levels: 
 - beginner
 roles: 
 - business-user
-products: 
-- bizapps-power-apps
-- bizapps-d365
+products:
+- power-apps
+- dynamics-365
 metadata: 
   title: Manage apps in PowerApps
   description: Manage app versions, app sharing, and environments in PowerApps.

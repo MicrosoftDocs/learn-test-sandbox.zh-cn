@@ -16,15 +16,14 @@ abstract: |
   - Format a number as a price.
   - Color prices based on their values.
   - Explore formulas in a generated app.
-cardDescription: Learn how to customize an app by adding controls, images, and logic.
 iconUrl: http://via.placeholder.com/120x120 
 levels:  
 - beginner 
 roles:  
 - business-user 
-products:  
-- bizapps-power-apps
-- bizapps-d365 
+products:
+- power-apps
+- dynamics-365 
 units: 
 - learn-test-sandbox.fallback.handback-already-onlyinloc
 badge: 

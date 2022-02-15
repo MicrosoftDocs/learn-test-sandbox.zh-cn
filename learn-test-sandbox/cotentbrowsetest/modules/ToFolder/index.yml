@@ -1,0 +1,30 @@
+### YamlMime:Module 
+uid: learn-test-sandbox.MoveFolder-module.browsetestloc
+metadata: 
+  title: BrowseTest - Customize an app
+  description: BrowseTest - Learn how to customize an app by adding controls, images, and logic.
+  ms.date: 05/24/2019
+title: BrowseTest - MoveModuleFileZhCn
+summary: MoveModuleFileTest.
+abstract: |
+  In this module, you will:
+  - Change the layout of a gallery.
+  - Change the data that a control shows.
+  - Change the order in which fields appear.
+  - Change the control with which a user provides information.
+  - Explore controls on each screen of an app.
+  - Format a number as a price.
+  - Color prices based on their values.
+  - Explore formulas in a generated app.
+iconUrl: http://via.placeholder.com/120x120 
+levels:  
+- intermediate 
+roles:  
+- business-user 
+- functional-consultant
+products:  
+- m365
+units: 
+- learn-test-sandbox.moveFolderZhCn.handback-already.browsetest
+badge: 
+  uid: learn-test-sandbox.movemoduleZhCn.badge

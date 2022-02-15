@@ -1,9 +1,23 @@
-### YamlMime:Module
+### YamlMime:Module 
 uid: learn-test-sandbox.moveFolderZhCn.handback-already.browsetest
 title: 自定义PowerApps改进
 metadata: 
   title: Improve apps by making basic customizations in PowerApps
   description: Make basic customizations to your apps, such as choosing a layout and reordering fields. 
-durationInMinutes: 10 
-content: | 
-  测试单元
+  ms.date: 02/15/2022
+summary: 学习怎样定义一个app的摘要
+abstract: |
+  In this module, you will:
+  - Change the layout of a gallery.
+  - Change the data that a control shows.
+iconUrl: http://via.placeholder.com/120x120 
+levels:  
+- beginner 
+roles:  
+- business-user 
+products:  
+- m365 
+units: 
+- learn-test-sandbox.fallback.test.browsetestloc
+badge: 
+  uid: learn-test-sandbox.browsetestloc2.badge.231 

@@ -25,6 +25,6 @@ products:
 - power-apps
 - dynamics-365 
 units: 
-- learn-test-sandbox.fallback.handback-already-onlyinloc-2-test111
+- learn-test-sandbox.fallback.handback-already-onlyinloc-2
 badge: 
   uid: learn-test-sandbox.orphan-module-onlyinloc.badge  

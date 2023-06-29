@@ -1,0 +1,20 @@
+### YamlMime:LearningPath
+uid: learn-test-sandbox.browsertestloc.1
+title: LP 在中文环境在的测试browsertestupdate - Create an app in PowerApps
+summary: 我是summary。
+iconUrl: https://via.placeholder.com/120x120 
+levels:
+- beginner
+roles:
+- business-user
+products:
+- m365
+prerequisites: This learning path assumes that you're familiar with OneDrive, SharePoint, and Excel.
+metadata:
+  title: LP 在中文环境在的测试。
+  description: 这个是关于介绍powapps的学习路径。
+  ms.date: 07/29/2018
+modules:
+- learn-test-sandbox.fallback-module.browsetestloc
+- learn-test-sandbox.fallback-only-in-us.browsetestloc
+achievement: learn-test-sandbox.loadtest-1.trophy

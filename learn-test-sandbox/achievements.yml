@@ -3,20 +3,20 @@ achievements:
 - uid: learn-test-sandbox.loadtest-1.trophy
   type: trophy
   title: Create an app in PowerApps 奖杯
-  summary: 完成'Create an app in PowerApps' 学习计划的奖杯.
+  summary: 完成 "Create an app in PowerApps" 学习计划的奖杯.
   iconUrl: http://via.placeholder.com/120x120
 - uid: learn-test-sandbox.loadtest-1-customize.badge
   type: badge
   title: Customize and manage PowerApps 奖牌
-  summary: 完成'Customize and manage PowerApps' 课程的合格奖牌.
+  summary: 完成 "Customize and manage PowerApps" 课程的合格奖牌.
   iconUrl: http://via.placeholder.com/120x120
 - uid: learn-test-sandbox.loadtest-1-get-started.badge
   type: badge
   title: Get started with PowerApps 奖牌
-  summary: 完成 'Get started with PowerApps' 课程的奖牌.
+  summary: 完成 "Get started with PowerApps" 课程的奖牌.
   iconUrl: http://via.placeholder.com/120x120
 - uid: learn-test-sandbox.loadtest-1-manage.badge
   type: badge
   title: Manage your PowerApps 奖牌
-  summary: 完成 'Manage your PowerApps' 课程的奖牌.
+  summary: 完成 "Manage your PowerApps" 课程的奖牌.
   iconUrl: http://via.placeholder.com/120x120

@@ -24,7 +24,5 @@ roles:
 - functional-consultant
 products:  
 - m365
-units: 
-- learn-test-sandbox.moveFolderZhCn.handback-already.browsetest
 badge: 
   uid: learn-test-sandbox.movemoduleZhCn.badge

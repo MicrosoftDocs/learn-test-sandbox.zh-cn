@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit
+uid: learn-test-sandbox.moveFolderZhCn.handback-already.browsetest2
+title: 这个单元被move module 测试的module文件引用了(From Folder)。
+metadata: 
+  title: 这个是测试用的moduleUnit.
+  description: Make basic customizations to your apps, 比如 choosing a layout and reordering fields. 
+durationInMinutes: 1
+content: | 
+  测试单元112233
